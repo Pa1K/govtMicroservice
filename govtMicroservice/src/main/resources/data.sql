@@ -1,0 +1,7 @@
+insert into govt(number,violation,violation_date,penalty) values('4','wrongroute','2021-11-13',500)
+insert into govt(number,violation,violation_date,penalty) values('1','overspeed','2021-10-10',5000)
+insert into govt(number,violation,violation_date,penalty) values('2','overspeed','2021-11-10',5000)
+insert into govt(number,violation,violation_date,penalty) values('3','overspeed','2021-12-13',5000)
+insert into govt(number,violation,violation_date,penalty) values('51','helment missing','2021-12-13',2400)
+insert into govt(number,violation,violation_date,penalty) values('52','triple riding','2021-12-13',2000)
+insert into govt(number,violation,violation_date,penalty) values('53','rash driving','2021-12-13',5000)
